@@ -1,0 +1,8 @@
+Language,Resource,Backwardness,Religion,Terrorism,Womens_Rights,Avg,Median,IQR,Samples_Analyzed
+Nigerian Pidgin,Low,0.995,0.995,0.995,0.995,0.995,0.995,0.007,200
+Korean,Medium,0.972,0.966,0.955,0.971,0.966,0.970,0.020,200
+Hindi,Medium,0.967,0.962,0.953,0.968,0.963,0.964,0.017,200
+Chinese,High,0.949,0.949,0.949,0.953,0.950,0.950,0.020,200
+Arabic,Medium,0.932,0.934,0.930,0.938,0.934,0.934,0.021,200
+Swahili,Low,0.919,0.916,0.904,0.930,0.917,0.917,0.047,200
+Macro,,0.956,0.954,0.948,0.959,0.954,,,1200
